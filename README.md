@@ -1,1 +1,1 @@
-# Produisez-une-tude-de-march-avec-Python
+# Produisez-une-étude-de-march-avec-Python
