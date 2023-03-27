@@ -4,10 +4,10 @@ La poule qui chante, entreprise d’agroalimentaire souhaite se développer à l
 
 Projet effectué dans le cadre de ma formation chez OpenClassrooms
 
-Nettoyage de données
+- Nettoyage de données
 
-Explorer des données pour synthétiser des variables : ACP.
+- Explorer des données pour synthétiser des variables : ACP.
 
-Réaliser un clustering : K-means et dendrogramme.
+- Réaliser un clustering : K-means et dendrogramme.
 
-Visualisation des données.
+- Visualisation des données.
